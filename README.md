@@ -1,4 +1,4 @@
-# Image-Captioning-Project
+# Image-Captioning
 **Image Captioning using Recurrent Neural Networks**
 
 - In this project we use deep neural network models to caption Flickr images.
